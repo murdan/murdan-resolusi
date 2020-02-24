@@ -6,4 +6,5 @@ RENCANA KONTEN
 - Structure Data Dasar
 - PHP
   * Laravel
+  * CI
 - Interview
