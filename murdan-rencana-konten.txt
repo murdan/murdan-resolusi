@@ -1,6 +1,7 @@
 RENCANA KONTEN
 
 - Javascript
-* E6
+* Es6
+- Structure Data Dasar
 - PHP
 - Interview
