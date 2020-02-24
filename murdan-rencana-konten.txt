@@ -2,6 +2,8 @@ RENCANA KONTEN
 
 - Javascript
 * Es6
+  * Vue
 - Structure Data Dasar
 - PHP
+  * Laravel
 - Interview
