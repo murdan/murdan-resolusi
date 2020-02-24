@@ -1,5 +1,6 @@
 RENCANA KONTEN
 
 - Javascript
+* E6
 - PHP
 - Interview
